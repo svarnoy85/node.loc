@@ -7,5 +7,13 @@
   },
   "author": "svarnoy85",
   "license": "ISC",
-  "description": "Тестовая сборка"
+  "description": "Тестовая сборка",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svarnoy85/node.loc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/svarnoy85/node.loc/issues"
+  },
+  "homepage": "https://github.com/svarnoy85/node.loc#readme"
 }
