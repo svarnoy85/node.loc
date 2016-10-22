@@ -1,15 +1,11 @@
 {
-  "name": "node.js",
+  "name": "node.loc",
   "version": "1.0.0",
-  "description": "Fierst",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "svarnoy85",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.16.3"
-  },
-  "devDependencies": {}
+  "description": "Тестовая сборка"
 }
