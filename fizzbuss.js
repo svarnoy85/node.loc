@@ -20,7 +20,7 @@ function fizz() {
         if ( i%5 == 0 && i%3 == 0){
             var str='Делится на 3 и на 5'
         }
-        console.log('('+i+') '+str);
+        console.log('('+i+') '+str); /*добавил скобочки пробел и т.д. */
     }
 }
 fizz()
